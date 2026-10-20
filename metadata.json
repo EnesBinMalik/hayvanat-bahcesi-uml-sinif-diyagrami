@@ -1,0 +1,6 @@
+{
+  "name": "Hayvanat Bahçesi UML Sınıf Diyagramı - Enes Öztürk",
+  "description": "Polimorfizm mimarisi ile hayvanat bahçesi yönetim sistemi, dozaj (getDosage) ve besleme (getFeedSchedule) algoritmaları UML sınıf diyagramı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
